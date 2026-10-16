@@ -1,0 +1,75 @@
+AFGHANMARKET
+Privacy PolicyTerms of ServiceDelete Account
+Privacy Policy
+Last updated: October 16, 2026 (draft for owner review)
+
+This Privacy Policy describes how the AFGHANMARKET app (“the app”, “we”) handles information. It is written from how the app currently works. Where something is not yet confirmed, we say so rather than make a promise.
+
+Information We Collect
+Depending on the features you use, the app handles:
+
+Account and profile data: email address and password (for email sign-in), phone number (for phone sign-in and your profile), your name, province, city and profile picture.
+Content you create: listings, their descriptions, prices and images, favorites, reviews, reports and blocked users.
+Messages: conversations and messages you send to other users through the app.
+Shop and order data: shop and product information, cart and order details, and the payment method you choose.
+Payment slips: images you upload as proof of payment, where a feature asks for one.
+Advertising and campaign data: promotion orders and records of interactions with promotions, such as clicks.
+Technical data: like any internet service, our backend and image hosts can see your IP address and basic request details when the app connects.
+We have found no third-party analytics, advertising or crash-reporting service running in the app.
+
+How We Use Information
+We use information to run the app: to create and secure your account, show listings and shops, let users contact each other, process orders, show notifications, handle reports and moderation, and operate promotions.
+
+Account and Authentication
+You can sign up and sign in with an email address and password, or with a phone number and a one-time code. Authentication is handled by our backend provider, Supabase. Your sign-in session is kept only while the app is running; closing the app signs you out.
+
+Listings and User Content
+Listings, shop pages and reviews you publish are visible to other users of the app. Do not include information you do not want others to see.
+
+Chat and Communications
+Messages between users are stored on our backend so that both parties can read the conversation. They are not end-to-end encrypted.
+
+Location / Province / City
+The app uses the province and city you type or select, for your profile and listings. The app does not request GPS location access.
+
+Images and Storage
+Images you upload (for example listing pictures and payment slips) are stored in Supabase storage. Listing images are shown to other users through image links.
+
+Orders and Payments
+The app records orders, the payment method you select and related status information. We have not found any in-app processing of payment card numbers. Payments may be arranged outside the app. Please confirm with the owner how payments are handled before relying on this section.
+
+Payment Slips
+If you upload a payment slip, the image and a link to it are stored with the related order or promotion order, and may be viewed by the people who review that payment.
+
+Notifications
+The app shows notifications that are stored for your account. The app contains groundwork for registering a device for push notifications, but we have not confirmed that push notifications are active. We will update this policy if that changes.
+
+Advertising/Campaign Data
+The app can show promotions and campaigns. Interactions such as clicks may be recorded to measure how promotions perform. Promotion links may take you to external websites that have their own privacy practices.
+
+Data Sharing
+Other users: content you publish, and messages you send, are shared with the users they are intended for.
+Service providers: we use Supabase to host the database, authentication and file storage.
+We do not sell personal information. We have not found data being shared with advertising networks.
+We may disclose information if the law requires it.
+Data Retention
+We keep your information while your account exists. A fixed retention period for each type of data has not yet been defined. If you delete your account, we delete your account data as described below.
+
+Owner action required: contact details have not been provided yet. A contact email for privacy and legal requests must be added here before the app is published. [CONTACT EMAIL TO BE ADDED BY THE OWNER]
+
+Account Deletion
+You can delete your account in the app: Settings → Delete account (shown when you are signed in). See Delete Account. Deletion is intended to remove your account, profile, listings, notifications, reports, reviews, blocks and uploaded files. Our cleanup is not yet confirmed to cover every type of data, such as messages, orders and promotion records, and some of it may remain after deletion. We will update this policy when that is confirmed.
+
+Security
+The app connects to our backend over HTTPS, and access to data is controlled by account-based rules on the backend. No system is completely secure, so we cannot guarantee absolute security.
+
+Children's Privacy
+The app is not intended for children. Do not use it if you are under the age required by the law where you live. If you believe a child has given us personal information, contact us so we can address it. The minimum age has not been set by the owner yet.
+
+Changes to this Privacy Policy
+We may update this policy as the app changes. The “Last updated” date above shows the latest version.
+
+Contact
+Owner action required: contact details have not been provided yet. A contact email for privacy and legal requests must be added here before the app is published. [CONTACT EMAIL TO BE ADDED BY THE OWNER]
+
+AFGHANMARKET · Privacy Policy · Terms of Service · Delete Account
